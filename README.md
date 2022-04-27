@@ -1,5 +1,5 @@
 # Transparent-Navigation-Bar-using-HTML-and-CSS
-Simple transparent navigation bar using html and css
+Simple transparent navigation bar using html and CSS
 
 Codepen link --> https://codepen.io/ANDREGABRIELS/pen/vYpBLzP
 
