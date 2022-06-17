@@ -34,7 +34,6 @@ li a {
   transition: 1s;
   padding: 25px 30px;
 }
-
 li a:hover {
   transition: 1s;
   background: rgba(255, 255, 255, 0.7);
